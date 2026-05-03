@@ -1,0 +1,182 @@
+[
+  {
+    "equipment_id": 1,
+    "name": "Laptop Dell XPS 13",
+    "category": "Ноутбук",
+    "serial_number": "DX13-001",
+    "manufacturer": "Dell",
+    "price": 1200.0,
+    "supplier_id": 1
+  },
+  {
+    "equipment_id": 2,
+    "name": "Desktop HP EliteDesk",
+    "category": "Настольный ПК",
+    "serial_number": "HPED-002",
+    "manufacturer": "HP",
+    "price": 950.0,
+    "supplier_id": 2
+  },
+  {
+    "equipment_id": 3,
+    "name": "Monitor Samsung 24",
+    "category": "Монитор",
+    "serial_number": "SM24-003",
+    "manufacturer": "Samsung",
+    "price": 180.0,
+    "supplier_id": 1
+  },
+  {
+    "equipment_id": 4,
+    "name": "Router Cisco RV340",
+    "category": "Сетевое оборудование",
+    "serial_number": "CRV-004",
+    "manufacturer": "Cisco",
+    "price": 250.0,
+    "supplier_id": 3
+  },
+  {
+    "equipment_id": 5,
+    "name": "External HDD Seagate 2TB",
+    "category": "Хранилище",
+    "serial_number": "SE2TB-005",
+    "manufacturer": "Seagate",
+    "price": 80.0,
+    "supplier_id": 2
+  },
+  {
+    "equipment_id": 6,
+    "name": "Keyboard Logitech K120",
+    "category": "Периферийное оборудование",
+    "serial_number": "LGK120-006",
+    "manufacturer": "Logitech",
+    "price": 15.0,
+    "supplier_id": 1
+  },
+  {
+    "equipment_id": 7,
+    "name": "Mouse Microsoft Basic",
+    "category": "Периферийное оборудование",
+    "serial_number": "MSB-007",
+    "manufacturer": "Microsoft",
+    "price": 12.0,
+    "supplier_id": 3
+  },
+  {
+    "equipment_id": 8,
+    "name": "UPS APC Back-UPS 600VA",
+    "category": "Энергетика",
+    "serial_number": "APC600-008",
+    "manufacturer": "APC",
+    "price": 100.0,
+    "supplier_id": 2
+  },
+  {
+    "equipment_id": 9,
+    "name": "Projector Epson EB‑S41",
+    "category": "Проектор",
+    "serial_number": "EPJ-009",
+    "manufacturer": "Epson",
+    "price": 350.0,
+    "supplier_id": 3
+  },
+  {
+    "equipment_id": 10,
+    "name": "Server Dell PowerEdge R730",
+    "category": "Сервер",
+    "serial_number": "DPER730-010",
+    "manufacturer": "Dell",
+    "price": 4500.0,
+    "supplier_id": 1
+  },
+  {
+    "equipment_id": 11,
+    "name": "Tablet iPad Pro 12.9",
+    "category": "Планшет",
+    "serial_number": "IPP129-011",
+    "manufacturer": "Apple",
+    "price": 1100.0,
+    "supplier_id": 2
+  },
+  {
+    "equipment_id": 12,
+    "name": "Keyboard Logitech MX Keys",
+    "category": "Клавиатура",
+    "serial_number": "LMXK-012",
+    "manufacturer": "Logitech",
+    "price": 120.0,
+    "supplier_id": 1
+  },
+  {
+    "equipment_id": 13,
+    "name": "Mouse Razer DeathAdder",
+    "category": "Мышь",
+    "serial_number": "RDAM-013",
+    "manufacturer": "Razer",
+    "price": 70.0,
+    "supplier_id": 3
+  },
+  {
+    "equipment_id": 14,
+    "name": "Webcam Logitech C920",
+    "category": "Камера",
+    "serial_number": "LC920-014",
+    "manufacturer": "Logitech",
+    "price": 90.0,
+    "supplier_id": 1
+  },
+  {
+    "equipment_id": 15,
+    "name": "Headset Sony WH-1000XM4",
+    "category": "Наушники",
+    "serial_number": "SWHM4-015",
+    "manufacturer": "Sony",
+    "price": 280.0,
+    "supplier_id": 2
+  },
+  {
+    "equipment_id": 16,
+    "name": "Printer HP LaserJet Pro",
+    "category": "Принтер",
+    "serial_number": "HLLJP-016",
+    "manufacturer": "HP",
+    "price": 320.0,
+    "supplier_id": 3
+  },
+  {
+    "equipment_id": 17,
+    "name": "Scanner Canon CanoScan",
+    "category": "Сканер",
+    "serial_number": "CCANS-017",
+    "manufacturer": "Canon",
+    "price": 150.0,
+    "supplier_id": 1
+  },
+  {
+    "equipment_id": 18,
+    "name": "Router ASUS RT-AX88U",
+    "category": "Роутер",
+    "serial_number": "ARAX88-018",
+    "manufacturer": "ASUS",
+    "price": 250.0,
+    "supplier_id": 2
+  },
+  {
+    "equipment_id": 19,
+    "name": "Switch Cisco Catalyst 2960",
+    "category": "Коммутатор",
+    "serial_number": "CC2960-019",
+    "manufacturer": "Cisco",
+    "price": 1800.0,
+    "supplier_id": 3
+  },
+  {
+    "equipment_id": 20,
+    "name": "UPS APC Smart-UPS",
+    "category": "ИБП",
+    "serial_number": "APCSU-020",
+    "manufacturer": "APC",
+    "price": 650.0,
+    "supplier_id": 1
+  }
+]

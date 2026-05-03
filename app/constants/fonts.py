@@ -1,0 +1,12 @@
+# Шрифты для приложения (используются после загрузки в window.py)
+# Эти имена соответствуют шрифтам, загружаемым в MainWindow._load_custom_fonts()
+
+PAGE_TITLE = ("SyneBold", 20)
+LOGO = ("SyneBold", 14)
+NAV = ("SyneRegular", 12)
+STAT_VALUE = ("SyneBold", 24)
+STAT_ICON = ("SyneRegular", 28)
+STAT_LABEL = ("SyneRegular", 10)
+SEARCH = ("SyneRegular", 12)
+TABLE_ROW = ("SyneRegular", 11)
+TABLE_HEADING = ("SyneBold", 11)

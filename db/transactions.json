@@ -1,0 +1,182 @@
+[
+  {
+    "transaction_id": 1,
+    "person_id": 4,
+    "equipment_id": 1,
+    "type": "ПРИХОД",
+    "quantity": 5,
+    "date": "2023-01-01T09:00:00Z",
+    "note": "Начальный запас ноутбука"
+  },
+  {
+    "transaction_id": 2,
+    "person_id": 6,
+    "equipment_id": 1,
+    "type": "РАСХОД",
+    "quantity": 1,
+    "date": "2023-01-03T10:30:00Z",
+    "note": "Продажа Марии"
+  },
+  {
+    "transaction_id": 3,
+    "person_id": 5,
+    "equipment_id": 2,
+    "type": "ПРИХОД",
+    "quantity": 3,
+    "date": "2023-01-05T11:15:00Z",
+    "note": "Получены новые настольные компьютеры"
+  },
+  {
+    "transaction_id": 4,
+    "person_id": 7,
+    "equipment_id": 2,
+    "type": "РАСХОД",
+    "quantity": 2,
+    "date": "2023-01-07T14:20:00Z",
+    "note": "Доставлено Алексею"
+  },
+  {
+    "transaction_id": 5,
+    "person_id": 9,
+    "equipment_id": 4,
+    "type": "ПРИХОД",
+    "quantity": 2,
+    "date": "2023-01-10T08:45:00Z",
+    "note": "Запас роутеров пополнен"
+  },
+  {
+    "transaction_id": 6,
+    "person_id": 8,
+    "equipment_id": 4,
+    "type": "РАСХОД",
+    "quantity": 1,
+    "date": "2023-01-12T15:00:00Z",
+    "note": "Продан роутер Ирине"
+  },
+  {
+    "transaction_id": 7,
+    "person_id": 3,
+    "equipment_id": 5,
+    "type": "ПРИХОД",
+    "quantity": 10,
+    "date": "2023-01-15T09:30:00Z",
+    "note": "Добавлены внешние HDD"
+  },
+  {
+    "transaction_id": 8,
+    "person_id": 6,
+    "equipment_id": 5,
+    "type": "РАСХОД",
+    "quantity": 2,
+    "date": "2023-01-16T13:10:00Z",
+    "note": "Продажа Марии"
+  },
+  {
+    "transaction_id": 9,
+    "person_id": 2,
+    "equipment_id": 10,
+    "type": "ПРИХОД",
+    "quantity": 1,
+    "date": "2023-01-20T07:00:00Z",
+    "note": "Сервер приобретён"
+  },
+  {
+    "transaction_id": 10,
+    "person_id": 10,
+    "equipment_id": 10,
+    "type": "РАСХОД",
+    "quantity": 1,
+    "date": "2023-01-22T12:45:00Z",
+    "note": "Сервер установлен для Елены"
+  },
+  {
+    "transaction_id": 11,
+    "person_id": 11,
+    "equipment_id": 11,
+    "type": "ПРИХОД",
+    "quantity": 5,
+    "date": "2023-02-01T10:00:00Z",
+    "note": "iPad Pro закуплены"
+  },
+  {
+    "transaction_id": 12,
+    "person_id": 15,
+    "equipment_id": 12,
+    "type": "РАСХОД",
+    "quantity": 3,
+    "date": "2023-02-05T14:30:00Z",
+    "note": "Клавиатуры выданы сотрудникам"
+  },
+  {
+    "transaction_id": 13,
+    "person_id": 13,
+    "equipment_id": 13,
+    "type": "ПРИХОД",
+    "quantity": 10,
+    "date": "2023-02-10T08:15:00Z",
+    "note": "Мыши закуплены"
+  },
+  {
+    "transaction_id": 14,
+    "person_id": 16,
+    "equipment_id": 14,
+    "type": "РАСХОД",
+    "quantity": 2,
+    "date": "2023-02-12T11:20:00Z",
+    "note": "Веб-камеры для видеоконференций"
+  },
+  {
+    "transaction_id": 15,
+    "person_id": 14,
+    "equipment_id": 15,
+    "type": "ПРИХОД",
+    "quantity": 8,
+    "date": "2023-02-15T09:45:00Z",
+    "note": "Наушники Sony закуплены"
+  },
+  {
+    "transaction_id": 16,
+    "person_id": 17,
+    "equipment_id": 16,
+    "type": "ПРИХОД",
+    "quantity": 2,
+    "date": "2023-02-18T13:00:00Z",
+    "note": "Принтеры HP получены"
+  },
+  {
+    "transaction_id": 17,
+    "person_id": 18,
+    "equipment_id": 17,
+    "type": "РАСХОД",
+    "quantity": 1,
+    "date": "2023-02-20T10:30:00Z",
+    "note": "Сканер передан в офис"
+  },
+  {
+    "transaction_id": 18,
+    "person_id": 19,
+    "equipment_id": 18,
+    "type": "ПРИХОД",
+    "quantity": 3,
+    "date": "2023-02-22T15:00:00Z",
+    "note": "Роутеры ASUS закуплены"
+  },
+  {
+    "transaction_id": 19,
+    "person_id": 20,
+    "equipment_id": 19,
+    "type": "ПРИХОД",
+    "quantity": 1,
+    "date": "2023-02-25T08:00:00Z",
+    "note": "Коммутатор Cisco получен"
+  },
+  {
+    "transaction_id": 20,
+    "person_id": 11,
+    "equipment_id": 20,
+    "type": "ПРИХОД",
+    "quantity": 4,
+    "date": "2023-02-28T12:00:00Z",
+    "note": "ИБП APC закуплены"
+  }
+]
